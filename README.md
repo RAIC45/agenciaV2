@@ -13,5 +13,5 @@ Este proyecto corresponde a una aplicación web para una agencia de viajes que p
 ⚙️ Instalación
 
 1. Clona el repositorio:
-   git clone https://[github.com/usuario/nombre-del-repositorio.git](https://github.com/RAIC45/agenciaV2/ 
-   9
+   git clone https://https://github.com/RAIC45/agenciaV2/tree/main
+   
