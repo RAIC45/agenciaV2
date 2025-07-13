@@ -1,6 +1,6 @@
 📝 Descripción
 
-Este proyecto corresponde a una aplicación web para una agencia de viajes que permite buscar y reservar vuelos y paquetes turísticos en línea. Fue desarrollado como parte de una actividad de trabajo colaborativo usando GitHub.
+Este proyecto corresponde a una aplicación web para una agencia de viajes que permite buscar y reservar vuelos y paquetes turísticos en línea. Sera desarrollado como parte de una actividad de trabajo colaborativo usando GitHub.
 
 ✨ Características
 
